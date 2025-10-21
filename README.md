@@ -1,2 +1,2 @@
-# CIT-Texture-Pack-
+# CIT-Texture-Pack
 Template
